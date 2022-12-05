@@ -66,5 +66,7 @@ a:hover {
   /* ===== COMMON PARTS END ===== */
   
   /* ===== OVERALL BEGIN ===== */
-  /* ...ここは後ほど自分で入力していきます。 */
+  .page-cover {
+    min-height: 100vh;
+  }
   /* ===== OVERALL END ===== */
