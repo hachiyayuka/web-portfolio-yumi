@@ -38,6 +38,7 @@ a:hover {
   text-decoration: underline;
 }
 /* ===== BASIC END ===== */
+
 /* ===== COMMON PARTS BEGIN ===== */
 .text-dark {
     color: #101841;
@@ -83,6 +84,10 @@ a:hover {
   }
   .page-bg-icon-lt {
     top: 16px;
+    bottom: 16px;
+  }
+  .page-bg-icon-rb {
+    right: 16px;
     bottom: 16px;
   }
   /* ===== OVERALL END ===== */
